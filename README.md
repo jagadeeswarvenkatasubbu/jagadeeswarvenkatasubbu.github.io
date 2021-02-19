@@ -6,7 +6,9 @@
     (+61) 0469 754 506
 </div>
 <div style='text-align: right;'>
-    github.com/jagadeeswarvenkatasubbu
+    <a href="https://github.com/jagadeeswarvenkatasubbu">
+        github.com/jagadeeswarvenkatasubbu
+    </a>
 </div>
 
 #### Summary
