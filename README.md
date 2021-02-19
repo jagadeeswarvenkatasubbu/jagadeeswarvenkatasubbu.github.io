@@ -1,12 +1,12 @@
 # Jagadeeswar Venkatasubbu
-<div style="align:right;width:100%">
+<div style='text-align: right;'>
     jagadeeswarvenkatasubbu@gmail.com
 </div>
-<div style="float:right;clear:left;align:right;width:100%">
+<div style='text-align: right;'>
     (+61) 0469 754 506
 </div>
-<div style="align:right;width:100%">
-    https://github.com/jagadeeswarvenkatasubbu
+<div style='text-align: right;'>
+    github.com/jagadeeswarvenkatasubbu
 </div>
 
 #### Summary
