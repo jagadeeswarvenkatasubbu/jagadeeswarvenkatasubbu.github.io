@@ -1,8 +1,8 @@
 # Jagadeeswar Venkatasubbu
-<div style='text-align: right;'>
+<div style='align:right;text-align: right;'>
     jagadeeswarvenkatasubbu@gmail.com
 </div>
-<div style='text-align: right;'>
+<div style='color:red;text-align: right;'>
     (+61) 0469 754 506
 </div>
 <div style='text-align: right;'>
