@@ -1,5 +1,5 @@
 # Jagadeeswar Venkatasubbu
-<div style='align:right;text-align: right;'>
+<div style='float:right;clear:both;min-width:100%;align:right;text-align: right;'>
     jagadeeswarvenkatasubbu@gmail.com
 </div>
 <div style='color:red;text-align: right;'>
