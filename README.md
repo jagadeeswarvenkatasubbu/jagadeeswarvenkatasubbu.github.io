@@ -15,19 +15,66 @@ jagadeeswarvenkatasubbu@gmail.com \
 #### Summary
 8 years of Software Industry experience across a range of technologies. Strong track record of agile delivery, utilising latest technologies. Expert in hands on software architecture (including microservice architectures), agile practices, cloud adoption, DevOps, continuous delivery and cloud native technologies. Incrementally built and replaced legacy systems with modern solutions.
 
-<p>
-aa
+<span style="align:right">
+<table>
+  <thead>
+    <td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td>
+  </thead><tr>
+    <td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td>
+  </tr> <tr>
+    <td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td>
+  </tr> <tr>
+    <td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td>
+  </tr> <tr>
+    <td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td><td bgcolor="#00FF00">
+           hi
+    </td>
+  </tr>
+</table>
+### Skills
+</span>
+<span style="float: left; clear: none">
 
-| Skills |  | Specialization |
-| --- | --- | --- |
-| git status |  |  |
-| git diff |  |  |
-
-| Skills |  | Specialization |
-| --- | --- | --- |
-| git status |  |  |
-| git diff |  |  |
-</p>
+### Skills
+</span>
 
 
 ### Skills
