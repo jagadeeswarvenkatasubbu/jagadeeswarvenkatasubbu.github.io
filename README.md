@@ -15,99 +15,33 @@ jagadeeswarvenkatasubbu@gmail.com \
 #### Summary
 8 years of Software Industry experience across a range of technologies. Strong track record of agile delivery, utilising latest technologies. Expert in hands on software architecture (including microservice architectures), agile practices, cloud adoption, DevOps, continuous delivery and cloud native technologies. Incrementally built and replaced legacy systems with modern solutions.
 
-<span style="align:right">
-<table>
-  <thead>
-    <td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td>
-  </thead><tr>
-    <td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td>
-  </tr> <tr>
-    <td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td>
-  </tr> <tr>
-    <td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td>
-  </tr> <tr>
-    <td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td><td bgcolor="#00FF00">
-           hi
-    </td>
-  </tr>
-</table>
 ### Skills
-</span>
-<span style="float: left; clear: none">
-
-### Skills
-</span>
-
-
-### Skills
-Java, Javascript, Python, Kotlin, React JS,
-Spring Boot, Terraform, SAP Hybris
-Commerce, Kafka, Kubernetes & Cloud
-Native
-
+| Java | Kotlin | Typescript | Scala | Kafka | React JS | Spring Boot | Terraform | Kubernetes | Sap Hybris |
+|---|---|---|---|---|---|---|---|---|---|
 
 ### Specializations
-Micro Services, DevOps, Continuous
-Delivery, GitOps
-
+| Micro Services | DevOps | Continuous Delivery | GitOps |  Cloud Native | 
+|---|---|---|---|---|
 
 ### Cloud
-AWS, Azure
+| AWS | Azure |
+|---|---|
 
 ### Development Practices
-Agile, Test Driven Development,
-Behaviour Driven Development, Pair
-Programming
+| Agile | Test Driven Development | Behaviour Driven Development | Pair Programming |
+|---|---|---|---|
 
 ### Data Stores
-MySql, SQL Server, DynamoDB, Redis
+| MySql | SQL Server | DynamoDB | Redis | KSqlDB
+|---|---|---|---|---|
 
 ### Education and Certification
-Graduated in B-Tech Information
-Technology, Anna University, Chennai
+Graduated in B-Tech Information Technology, Anna University, Chennai
 
 SAP Hybris Certified
 
-
 ### Experience
+
 ##### Tata Consultancy Services
 #####Full Stack Engineer ​ - ​ Big W
 Transformed
