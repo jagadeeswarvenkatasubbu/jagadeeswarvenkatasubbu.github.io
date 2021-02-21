@@ -1,51 +1,33 @@
-<style>
-.red {color: red}
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
 </style>
+--- 
 # Jagadeeswar Venkatasubbu
-  ::::: {#special .red}
-  Here is a paragraph.
-  
-  And another.
-  :::::  
-    `jagadeeswarvenkatasubbu@gmail.com` {: .right }
-    
-    <br/>
-<span style="color:red;text-align: right;">
-    (+61) 0469 754 506<br/>
-</span>
-<span style="text-align: right;">
-    <a href="https://github.com/jagadeeswarvenkatasubbu">
-        github.com/jagadeeswarvenkatasubbu<br/>
-    </a>
-</span>
+##### Tech Lead / Full Stack Engineer
+jagadeeswarvenkatasubbu@gmail.com \
+(+61) 0469 754 506<br/> 
+[github.com/jagadeeswarvenkatasubbu](#https://github.com/jagadeeswarvenkatasubbu)
+---
 
 #### Summary
+8 years of Software Industry experience across a range of technologies. Strong track record of agile delivery, utilising latest technologies. Expert in hands on software architecture (including microservice architectures), agile practices, cloud adoption, DevOps, continuous delivery and cloud native technologies. Incrementally built and replaced legacy systems with modern solutions.
 
-8 years of Software Industry experience across a range of technologies. Strong
-track record of agile delivery, utilising languages such as Java, Kotlin, Javascript,
-Python and frameworks such as Spring and React.js. Keen awareness on the
-state of the art technologies and picking the right tool for the job.
+<p>
+aa
 
-Expert in hands on technology leadership, agile practices, software architecture
-(including microservice architectures), cloud adoption (primarily Amazon Web
-Services and Microsoft Azure), DevOps, GitOps, continuous delivery and cloud
-native technologies. Incrementally built and replaced legacy systems with
-modern solutions for a number of clients.
+| Skills |  | Specialization |
+| --- | --- | --- |
+| git status |  |  |
+| git diff |  |  |
 
-Extensive experience in a range of e-commerce implementations including B2B,
-B2C and marketplace solutions with software products like SAP Hybris
-Commerce.
-
-8 years of Software Industry experience
-across a range of technologies. Strong
-track record of agile delivery, utilising
-latest technologies. Expert in hands on
-software architecture (including micro
-service architectures), agile practices,
-cloud adoption, DevOps, continuous
-delivery and cloud native technologies.
-Incrementally built and replaced legacy
-systems with modern solutions
+| Skills |  | Specialization |
+| --- | --- | --- |
+| git status |  |  |
+| git diff |  |  |
+</p>
 
 
 ### Skills
