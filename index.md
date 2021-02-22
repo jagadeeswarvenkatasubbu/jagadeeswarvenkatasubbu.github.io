@@ -1,10 +1,16 @@
---- 
+---
+layout: post
+title: "Blogging Like a Hacker"
+---
+
+
+
 # Jagadeeswar Venkatasubbu
 ##### Tech Lead / Full Stack Engineer
 jagadeeswarvenkatasubbu@gmail.com \
 (+61) 0469 754 506<br/> 
 [github.com/jagadeeswarvenkatasubbu](#https://github.com/jagadeeswarvenkatasubbu)
----
+
 
 #### Summary
 8 years of Software Industry experience across a range of technologies. Strong track record of agile delivery, utilising latest technologies. Expert in hands on software architecture (including microservice architectures), agile practices, cloud adoption, DevOps, continuous delivery and cloud native technologies. Incrementally built and replaced legacy systems with modern solutions.
