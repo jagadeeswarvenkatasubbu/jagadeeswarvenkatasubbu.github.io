@@ -1,8 +1,3 @@
----
-title: "Blogging Like a Hacker"
----
-
-
 
 # Jagadeeswar Venkatasubbu
 ##### Tech Lead / Full Stack Engineer
