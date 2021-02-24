@@ -1,3 +1,19 @@
 .header-padding {
     padding-bottom: 50px;
 }
+
+.savePdf {
+    padding: 10px;
+    cursor: pointer;
+    font-size: 40px;
+    color: #0299ff;
+    position: fixed;
+    text-align: right;
+    right: 30px;
+    bottom: 100px;
+    text-shadow: 2px 2px 5px #004477;
+}
+.savePdf:hover {
+    color: #004477;
+    text-shadow: 2px 2px 5px #0299ff;
+}

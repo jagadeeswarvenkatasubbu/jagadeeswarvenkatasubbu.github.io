@@ -35,3 +35,13 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<script type="text/javascript">
+function printPDF() {
+  console.log('printing pdf');
+  var element = document.getElementById("full-page");
+  console.log(element);
+  var worker = html2pdf().from(element).save();
+  console.log(worker);
+}
+</script>

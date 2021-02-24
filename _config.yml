@@ -12,13 +12,6 @@ kramdown:
   syntax_highlighter: rouge
 
 navbar-links:
-  Summary: "index/#summary"
-  Skills: "index/#summary"
-  Specializations: "index/#specializations"
-  Development Practices: "index/#development-practices"
-  Data Stores: "index/#data-stores"
-  Education and Certification: "index/#education-and-certification"
-  Experience: "index/#experience"
 
 # Name of website
 title: Jagadeeswar Venkatasubbu

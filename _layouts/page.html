@@ -16,13 +16,13 @@ layout: base
       <div class="row">
       {% include nav.html %}
       </div>
-      <div class="header-padding">&nbsp</div>
+      <div id="full-page">
       <div class="row">
       {% include header.html type="page" %}
       </div>
 
       {{ content }}
-
+      </div>
       {% if page.after-content %}
         <div class="after-content">
           {% for file in page.after-content %}

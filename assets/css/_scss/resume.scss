@@ -1,0 +1,51 @@
+body {
+    text-align: justify;
+    font-size: 18px;
+}
+#full-page {
+    padding: 10px 10px 10px 10px;
+}
+.contact-links {
+    text-align: right;
+    float: right;
+    padding-right: 10px;
+    clear: both;
+    > a {
+        padding-right: 0px;
+    }
+}
+
+.name {
+    font-size: 35px;
+    font-weight: 900;
+    color: #000088;
+}
+
+.role {
+    font-size: 24px;
+    font-weight: 800;
+    font-style: italic;
+    color: #0033CC;
+}
+
+hr.horizontal-line {
+    height: 5px;
+    background-color: #77bbff;
+}
+.section-title {
+    font-size: 22px;
+    font-weight: 800;
+    color: #123456;
+    margin-top: 15px;
+    border-bottom: 1px dashed #0033CC;
+    border-left: 5px dashed #0033CC;
+}
+.section-content {
+    padding-top: 10px;
+}
+.skills-list{
+    list-style: square;
+}
+.padding-left-30 {
+    padding-left: 30px;
+}
