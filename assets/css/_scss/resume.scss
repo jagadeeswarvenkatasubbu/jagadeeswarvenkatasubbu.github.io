@@ -10,22 +10,24 @@ body {
     float: right;
     padding-right: 10px;
     clear: both;
+    color: #FAFAFA;
     > a {
         padding-right: 0px;
+        color: #FAFAFA;
     }
 }
 
 .name {
     font-size: 35px;
     font-weight: 900;
-    color: #000088;
+    color: #000b2d;;
 }
 
 .role {
     font-size: 24px;
     font-weight: 800;
     font-style: italic;
-    color: #0033CC;
+    color: #000b2d;
 }
 
 hr.horizontal-line {
@@ -39,6 +41,7 @@ hr.horizontal-line {
     margin-top: 15px;
     border-bottom: 1px dashed #0033CC;
     border-left: 5px dashed #0033CC;
+//     background: linear-gradient(135deg, #00d4ff22 0%, #2f2b7e22 100%);
 }
 .section-content {
     padding-top: 10px;
@@ -49,3 +52,9 @@ hr.horizontal-line {
 .padding-left-30 {
     padding-left: 30px;
 }
+
+.title-banner {
+    background: linear-gradient(135deg, #00d4ff 0%, #2f2b7e 100%);
+}
+
+
