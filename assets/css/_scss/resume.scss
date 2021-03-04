@@ -3,7 +3,7 @@ body {
     font-size: 18px;
 }
 #full-page {
-    padding: 10px 10px 10px 10px;
+    padding: 0px 10px 10px 10px;
 }
 .contact-links {
     text-align: right;
@@ -20,14 +20,14 @@ body {
 .name {
     font-size: 35px;
     font-weight: 900;
-    color: #000b2d;
+    color: #BBCCFF;
 }
 
 .role {
     font-size: 24px;
     font-weight: 800;
     font-style: italic;
-    color: #000b2d;
+    color: #BBCCFF;
 }
 
 hr.horizontal-line {
@@ -54,7 +54,8 @@ hr.horizontal-line {
 }
 
 .title-banner {
-    background: linear-gradient(135deg, #00d4ff 0%, #2f2b7e 100%);
+//     background: linear-gradient(135deg, #00d4ff 0%, #2f2b7e 100%);
+    background-color: #34495e;
 }
 
 .experience-block {
@@ -99,7 +100,7 @@ hr.horizontal-line {
 
 .experience-summary {
     font-size: 16px;
-    line-height: 1.8;
+    line-height: 2.0;
 
      > ul {
         list-style: square;
