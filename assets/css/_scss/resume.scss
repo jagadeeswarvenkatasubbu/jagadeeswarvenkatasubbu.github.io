@@ -20,7 +20,7 @@ body {
 .name {
     font-size: 35px;
     font-weight: 900;
-    color: #000b2d;;
+    color: #000b2d;
 }
 
 .role {
@@ -57,4 +57,51 @@ hr.horizontal-line {
     background: linear-gradient(135deg, #00d4ff 0%, #2f2b7e 100%);
 }
 
+.experience-block {
+    padding-left: 15px;
+}
 
+.experience-worked-for-org {
+    font-size: 22px;
+    font-weight: 600;
+    border-bottom: 1px dotted #000;
+}
+
+.experience-worked-for-timeline {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.experience-block-title {
+    padding: 2px;
+    background-color: #0077ff33;
+    border-top: 1px solid #004477;
+}
+
+.experience-org {
+    font-weight: 700;
+    color: #000b2d;
+
+    > a {
+        text-decoration: underline;
+        color: #000b2d;
+    }
+}
+.experience-role {
+    font-weight: 500;
+    font-style: oblique;
+}
+
+.experience-timeline {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.experience-summary {
+    font-size: 16px;
+    line-height: 1.8;
+
+     > ul {
+        list-style: square;
+    }
+}
